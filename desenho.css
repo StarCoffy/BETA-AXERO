@@ -1,0 +1,12 @@
+body
+{
+  background-image: url(wait.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+h1
+{
+  text-align: center;
+  color:white;
+  margin-top: 150px;
+}

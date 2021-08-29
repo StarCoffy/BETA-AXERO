@@ -1,0 +1,32 @@
+#tudo
+{
+ background-image:url(imgs/404p1.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position-y: 120px;
+}
+
+#semitudo  
+{
+  visibility: hidden;
+  background-image:url(imgs/DONT.png);
+}
+#erasim
+{
+  visibility: hidden;
+}
+section
+{
+  cursor: default;
+  user-select: none;
+}
+p
+{
+  visibility: hidden;
+  cursor: default;
+  user-select: none;
+}
+a
+{
+  cursor: default;
+}
