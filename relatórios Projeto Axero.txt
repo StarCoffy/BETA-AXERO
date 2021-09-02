@@ -1,0 +1,5 @@
+======Relatório==========
+
+Versão:Beta Axero1.0
+Versão:Beta Axero1.1
+if(dia<02/09/2021){NEW: Correção de bugs em relação a 1.1}
