@@ -7,7 +7,7 @@ body
 {
   user-select: none;
   position: absolute;
-  margin-left: 430px; 
+
 }
 #loading 
 {
@@ -22,24 +22,28 @@ body
  text-align: center;
  background-color: #fcfefc;
 }
-#inicio
-{ 
-margin-left: 200px;
-margin-top:50px;
-user-select: none;
-}
 #voltar 
 {
- user-select: none;
- position: absolute;
- margin-top: 341px;
- visibility: hidden;
+  user-select: none;
+  position: absolute;
+  top: 50%;
+  left: 1%;
+  visibility: hidden;
 } 
+#inicio
+{ 
+  user-select: none;
+  margin-top: 7%;
+}
 #passar
 {
   user-select: none;
   position: absolute;
-  margin-top: 354px;
-  margin-left: 90px;
   visibility: hidden;
+  top: 50%;
+  right: 1%;
+}
+.center
+{
+  text-align: center;
 }
