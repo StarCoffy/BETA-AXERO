@@ -1,8 +1,19 @@
+@media (min-height: 1080px), (min-width: 1920px)
+{
+  body
+{
+ background-color:#fcfefc;
+ background-repeat: no-repeat;
+ margin-top:100px;
+ background-position-y:-180px;
+}
+}
 body
 {
  background-color:#fcfefc;
  background-repeat: no-repeat;
- background-size: 100%;
+ background-size: 100vw,100vh;
+ overflow: hidden;
 }
 #start 
 {
