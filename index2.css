@@ -26,8 +26,7 @@
 }
 #caixa2
 {
-    margin-left: 250px;
-    margin-top: 50px;
+    text-align: center;
     position: relative;
     visibility: hidden;
 }
